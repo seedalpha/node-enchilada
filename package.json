@@ -1,6 +1,6 @@
 {
-  "name": "enchilada",
-  "version": "0.13.0",
+  "name": "@seedalpha/enchilada",
+  "version": "0.13.10",
   "description": "middleware for automatic javascript bundles",
   "main": "index.js",
   "scripts": {
